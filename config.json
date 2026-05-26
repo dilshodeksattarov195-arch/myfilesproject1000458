@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersonnect",
+        "uuid": 3926892,
+        "checksum": "ew2fx"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
